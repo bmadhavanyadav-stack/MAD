@@ -1,0 +1,21 @@
+body{
+background:black;
+color:white;
+text-align:center;
+font-family:Arial;
+}
+
+video{
+display:none;
+}
+
+canvas{
+border:2px solid cyan;
+margin-top:20px;
+}
+
+#jutsu{
+margin-top:20px;
+font-size:28px;
+color:orange;
+}
